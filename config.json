@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsstringify",
+        "uuid": 12406832,
+        "checksum": "z4odjx"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
